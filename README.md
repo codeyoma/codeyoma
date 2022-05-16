@@ -3,21 +3,16 @@
 
 ---
 
--
+- 🙋‍♂️ I'm YongMan "Yoma" Kim.
 
--
+- 🤔 I specialized in Mind Philosophy, Mathematical Philosophy.
 
--
+- 📖 I'm interested in AI, Big-data.
 
--
-
+- 🏁 My goal is to make AGI with a mind.
 
 ---
 [![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
-
-
-
-
 
 
 <!--
@@ -33,5 +28,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
+
 -->
 
