@@ -1,18 +1,19 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=177&section=header&text=I'm%20Yoma&fontSize=70&fontAlign=74&fontAlignY=35&desc=Hello%20World!&descAlign=27&descSize=65&descAlignY=35)<br>
+-->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodeyoma&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://https://github.com/codeyoma)-->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
----
+# Hello, World!
 
 - :wave: I'm YongMan "Yoma" Kim.
-
 - :sparkles: I specialized in Mind Philosophy, Mathematical Philosophy.
-
 - 📖 I'm interested in AI, Big-data.
-
 - 🏁 My goal is to make AGI with a mind.
 
----
+***
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=round-square&logo=Gmail&logoColor=white&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
+
 [![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 <!--
