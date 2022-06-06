@@ -5,9 +5,13 @@
 
 # Hello, World!
 
+
 - :wave: I'm YongMan "Yoma" Kim.
+
 - :sparkles: I specialized in Mind Philosophy, Mathematical Philosophy.
+
 - 📖 I'm interested in AI, Big-data.
+
 - 🏁 My goal is to make AGI with a mind.
 
 ***
