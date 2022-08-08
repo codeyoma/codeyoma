@@ -5,7 +5,7 @@
 
 # Hello, Again!
 
-- :wave: I'm YongMan "Yoma" Kim.
+- :wave: I'm YongMan "Yòmá" Kim.
 
 - :sparkles: I specialized in Mind Philosophy, Mathematical Philosophy.
 
