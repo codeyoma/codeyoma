@@ -21,6 +21,11 @@
 
 <br/>
 
+  
+  
+  
+  
+  
 
 
 ## :toolbox: Skills
@@ -29,10 +34,13 @@
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Wolfram Language](https://img.shields.io/badge/wolfram_language-DD1100?style=for-the-badge&logo=wolfram-language&logoColor=white)
 <br/>
 <br/>
 <br/>
+ 
   
+ 
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -40,11 +48,22 @@
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![SymPy](https://img.shields.io/badge/sympy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)
   
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 <br/>
 <br/>
 <br/>
+  
+  
+  
+  
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kuvernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+![Apache Spark](https://img.shields.io/badge/apache_spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache hadoop](https://img.shields.io/badge/apache_hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -60,12 +79,10 @@
 ![Miro](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-<br/>
 
 ![Vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-<br/>
   
 ![Microsoft Office](https://img.shields.io/badge/microsoft_office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -74,10 +91,11 @@
 <br/>
 <br/>
 
+  
+ 
 ![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![HackerEarth](https://img.shields.io/badge/hackerearth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)
-<br/>
 
 ![Mendeley](https://img.shields.io/badge/mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white)
 ![Google Scholar](https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
@@ -94,13 +112,6 @@
 
 
 
-  
-  
-  
-  
-  
-  
-  
   
   
   
