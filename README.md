@@ -3,29 +3,39 @@
 -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodeyoma&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://https://github.com/codeyoma)-->
 
+<div align="center">
+  
+  
+  
+  
+  
 # Hello, Again!
 
 :wave: I'm YongMan "Yòmá" Kim.
 
-:sparkles: I specialized in NOTHING! Kidding! I specialized in Mind Philosophy.
+:sparkles: I specialized in NOTHING! Kidding, I specialized in Mind Philosophy.
 
 📖 I'm interested in AGI, Big-Data.
 
 🏁 My goal is to make AGI with a mind.
 
-
-
-
 <br/>
 
-## Skills
 
+
+## :toolbox: Skills
+  
 ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
-<br/>
 
+
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br/>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -46,23 +56,40 @@
 ![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br/>
 
-
 ![Microsoft Office](https://img.shields.io/badge/microsoft_office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=white)
+<br/>
+
+![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![HackerEarth](https://img.shields.io/badge/hackerearth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)
 <br/>
 
 ![Mendeley](https://img.shields.io/badge/mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white)
 ![Google Scholar](https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![arXiv](https://img.shields.io/badge/arxiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)
 <br/>
-
-## Contact
+<br/>
+  
+  
+  
+  
+## :mailbox_with_mail: Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-green?style=round-square&logo=Gmail&logoColor=white&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
 
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <!--
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=white)
 
@@ -97,3 +124,4 @@ Here are some ideas to get you started:
 
 -->
 
+  </div>
