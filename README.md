@@ -83,7 +83,8 @@
   
   
 ## :mailbox_with_mail: Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-green?style=round-square&logo=Gmail&logoColor=white&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
+  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
 
 
