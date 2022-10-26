@@ -13,7 +13,7 @@
 
 :wave: I'm YongMan "Yòmá" Kim.
 
-:sparkles: I specialized in NOTHING! Kidding, I specialized in Philosophy(Mind, Analytical).
+:sparkles: I specialized in Philosophy(Mind, Analytical).
 
 📖 I'm interested in AGI, Big-Data.
 
