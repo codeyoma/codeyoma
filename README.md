@@ -15,7 +15,7 @@
 
 :sparkles: I specialized in Philosophy(Mind, Analytical).
 
-📖 I'm interested in AGI, Big-Data.
+📖 I'm interested in AGI, Big-Data, Optimization ...
 
 🏁 My goal is to make AGI with a mind.
 
