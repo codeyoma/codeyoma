@@ -30,11 +30,11 @@
 
 ## :toolbox: Skills
   
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Wolfram Language](https://img.shields.io/badge/wolfram_language-DD1100?style=for-the-badge&logo=wolfram-language&logoColor=white)
+![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/r-276DC3?style=flat-square&logo=r&logoColor=white)
+![Wolfram Language](https://img.shields.io/badge/wolfram_language-DD1100?style=flat-square&logo=wolfram-language&logoColor=white)
 <br/>
 <br/>
 <br/>
@@ -59,6 +59,8 @@
   
   
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
   <!--
 ![Kuvernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
@@ -95,7 +97,6 @@
 <br/>
 <br/>
 
-  
  
 ![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -106,16 +107,19 @@
 ![arXiv](https://img.shields.io/badge/arxiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)
 <br/>
 <br/>
-  
-  
+<br/>
+
+![QMK](https://img.shields.io/badge/qmk-333333?style=for-the-badge&logo=qmk&logoColor=white)
+
+<br/>
+<br/>
   
   
 ## :mailbox_with_mail: Contact
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
-
-
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
+  
+[![Github.io](https://img.shields.io/badge/GithubPages-yoma.kr_or_yoma.kim-555555?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222&link=yoma.kr)](yoma.kr)
   
   
   
