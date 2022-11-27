@@ -3,7 +3,7 @@
 -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodeyoma&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://https://github.com/codeyoma)-->
 
-<div align="center">
+<div align="left">
 
 
 
@@ -25,9 +25,6 @@
 
 
 
-
-
-
 ## :toolbox: Skills
 
 ![C](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -37,7 +34,7 @@
 ![Wolfram Language](https://img.shields.io/badge/wolfram_language-DD1100?style=flat-square&logo=wolfram-language&logoColor=white)
 <br/>
 <br/>
-<br/>
+
 
 
 <!--
@@ -52,13 +49,10 @@
 
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 <br/>
-<br/>
-<br/>
+
  -->
 
 
-
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
   <!--
@@ -74,9 +68,11 @@
   <!--
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white
 -->
+ 
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <br/>
 <br/>
-<br/>
+
 
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
@@ -95,7 +91,7 @@
 ![Microsoft Office](https://img.shields.io/badge/microsoft_office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 <br/>
 <br/>
-<br/>
+
 
 
 ![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
@@ -107,19 +103,19 @@
 ![arXiv](https://img.shields.io/badge/arxiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)
 <br/>
 <br/>
-<br/>
+
 
 ![QMK](https://img.shields.io/badge/qmk-333333?style=flat-square&logo=qmk&logoColor=white)
 
 <br/>
-<br/>
+
 
 
 ## :mailbox_with_mail: Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
-[![Github.io](https://img.shields.io/badge/GithubPages-yoma.kr_or_yoma.kim-555555?style=flat-square&logo=githubpages&logoColor=white&labelColor=222222&link=yoma.kr)](yoma.kr)
+[![Github.io](https://img.shields.io/badge/GithubPages-yoma.kr_or_yoma.kim-555555?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222&link=yoma.kr)](yoma.kr)
 
 
 
