@@ -115,7 +115,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
-[![Github.io](https://img.shields.io/badge/GithubPages-yoma.kr_or_yoma.kim-555555?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222&link=yoma.kr)](yoma.kr)
+[![Github.io](https://img.shields.io/badge/GithubPages-yoma.kr_or_yoma.kim-555555?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222&link=yoma.kr)](https://yoma.kr)
 
 
 
