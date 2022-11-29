@@ -94,8 +94,8 @@
 
 
 
-![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+[![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
 ![HackerEarth](https://img.shields.io/badge/hackerearth-2C3454?style=flat-square&logo=hackerearth&logoColor=white)
 
 ![Mendeley](https://img.shields.io/badge/mendeley-9D1620?style=flat-square&logo=mendeley&logoColor=white)
