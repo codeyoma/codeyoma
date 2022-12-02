@@ -5,11 +5,8 @@
 
 <div align="left">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&duration=3333&pause=4000&width=435&lines=Hello%2C+Again!)](https://git.io/typing-svg)
 
- 
- 
  ---
  
 ### :bookmark: Introduction
@@ -18,25 +15,21 @@
 * :sparkles: I specialized in Philosophy(Mind, Analytical).
 * 📖 I'm interested in AGI, Big-Data, Optimization ...
 * 🏁 My goal is to make AGI with a mind.
- <br>
- 
- 
  
  ---
+ 
+<br>
  
 ## :mailbox_with_mail: Connect
 
 [![Gmail Badge](https://img.shields.io/badge/Mail_to_:_codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 [![Github.io](https://img.shields.io/badge/blog_:_yoma.kim_or_yoma.kr-555555?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222&link=yoma.kr)](https://yoma.kr)
  
+ ---
+ 
 <br>
  
- 
- 
- ---
-
 ## :toolbox: Tool Box
-
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
