@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&weight=500&size=42&duration=3333&pause=4000&width=600&height=70&lines=Hello%2C+Again!+I'm+Y%C3%B2m%C3%A1.)](https://git.io/typing-svg)
 
-<br>
-
 # :bookmark: About Me
 
 * :wave: I'm YongMan "Yòmá" Kim.
@@ -43,7 +41,6 @@
 ![SymPy](https://img.shields.io/badge/sympy-3B5526?&logo=sympy)
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?&logo=selenium)
 -->
-<br>
 
 #### Tech & Tools
 ![Nginx](https://img.shields.io/badge/Nginx-222?&logo=nginx&logoColor=009639)
@@ -65,8 +62,6 @@
 ![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)
 ![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)
 
-<br>
-
 #### Collab & Notes
 ![Git](https://img.shields.io/badge/Git-222?&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github)
@@ -78,7 +73,6 @@
 ![LaTeX](https://img.shields.io/badge/Latex-222?&logo=latex&logoColor=008080)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-222?&logo=microsoft-office&logoColor=D83B01)
 
-<br>
 
 #### Study
 [![Kaggle](https://img.shields.io/badge/Kaggle-222?&logo=kaggle)](https://www.kaggle.com/)
@@ -90,14 +84,11 @@
 ![Google Scholar](https://img.shields.io/badge/Google_Scholar-222?&logo=google-scholar)
 ![arXiv](https://img.shields.io/badge/arXiv-222?&logo=arxiv&logoColor=B31B1B)
 
-<br>
-
 #### Keyboards
 ![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)
 ![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)
 ![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)
 
-<br/>
 
 </div>
 <!-- </details> -->
