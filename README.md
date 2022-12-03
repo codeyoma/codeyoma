@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&weight=420&size=30&duration=3333&pause=4000&vCenter=true&width=435&lines=Hello%2C+Again!+I'm+Y%C3%B2m%C3%A1.)](https://yoma.kr)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&weight=500&size=42&duration=3333&pause=4000&width=600&height=70&lines=Hello%2C+Again!+I'm+Y%C3%B2m%C3%A1.)](https://git.io/typing-svg)
 
 <br>
 
