@@ -59,6 +59,8 @@
 ![Kuvernetes](https://img.shields.io/badge/Kubernetes-222?&logo=kubernetes)
 
 ![Linux](https://img.shields.io/badge/Linux-222?&logo=linux)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-222?&logo=GNUBash&logoColor=4EAA25)
+![CMake](https://img.shields.io/badge/CMake-222?&logo=CMake&logoColor=064F8C)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-222?&logo=visual-studio-code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)
 ![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)
