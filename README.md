@@ -87,6 +87,7 @@
 #### Keyboard
 ![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)
 ![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)
+![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)
 <br/>
 
 </div>
