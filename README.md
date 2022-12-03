@@ -1,6 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&duration=3333&pause=4000&width=435&lines=Hello%2C+Again!)](https://yoma.kr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&weight=420&size=30&duration=3333&pause=4000&vCenter=true&width=435&lines=Hello%2C+Again!+I'm+Y%C3%B2m%C3%A1.)](https://yoma.kr)
 
+<br>
 
 ### :bookmark: Introduction
 
@@ -10,6 +11,7 @@
 * 🏁 My goal is to make AGI with a mind.
 
 <br>
+<br>
 
 ## :mailbox_with_mail: Connect
 
@@ -17,6 +19,7 @@
 
 [![Github.io](https://img.shields.io/badge/blog_:_yoma.kim_or_yoma.kr-34A853?style=for-the-badge&logo=GoogleHome&labelColor=F9AB00&logoColor=white&link=yoma.kr)](https://yoma.kr)
 
+<br>
 <br>
 
 ## 🛠️ Tools
