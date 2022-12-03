@@ -58,7 +58,7 @@
 ![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)
 ![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)
 
-#### Collab & Notes
+#### Collabs & Notes
 ![Git](https://img.shields.io/badge/Git-222?&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-222?&logo=slack)
