@@ -3,7 +3,7 @@
 
 <br>
 
-# :bookmark: Introduction
+# :bookmark: About Me
 
 * :wave: I'm YongMan "Yòmá" Kim.
 * :sparkles: I specialized in Philosophy(Mind, Analytical).
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-# :mailbox_with_mail: Connect
+# :mailbox_with_mail: Reach Me
 
 [![Gmail Badge](https://img.shields.io/badge/Mail_:_codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
@@ -22,11 +22,11 @@
 <br>
 <br>
 
-# 🛠️ Tools
+# 🛠️ Tool Box
 <!-- <details> -->
 <div markdown="1" align=left>
 
-##### Language
+##### Languages
 ![C](https://img.shields.io/badge/C-222?&logo=c&logoColor=#A8B9CC)
 ![C++](https://img.shields.io/badge/C++-222?&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-222?&logo=Python&logoColor=3776AB)
@@ -45,7 +45,7 @@
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?&logo=selenium)
 -->
 
-##### Tech & Tool
+##### Tech & Tools
 ![Nginx](https://img.shields.io/badge/Nginx-222?&logo=nginx&logoColor=009639)
 ![Apache](https://img.shields.io/badge/Apache-222?&logo=apache&logoColor=D22128)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-222?&logo=apache-spark&logoColor=E25A1C)
@@ -65,7 +65,7 @@
 ![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)
 ![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)
 
-##### Collab & Note
+##### Collab & Notes
 ![Git](https://img.shields.io/badge/Git-222?&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-222?&logo=slack)
@@ -86,7 +86,7 @@
 ![Google Scholar](https://img.shields.io/badge/Google_Scholar-222?&logo=google-scholar)
 ![arXiv](https://img.shields.io/badge/arXiv-222?&logo=arxiv&logoColor=B31B1B)
 
-##### Keyboard
+##### Keyboards
 ![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)
 ![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)
 ![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)
