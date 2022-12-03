@@ -22,7 +22,7 @@
 <br>
 <br>
 
-# 🛠️ Tool Box
+# 🛠️ Toolbox
 <!-- <details> -->
 <div markdown="1" align=left>
 
