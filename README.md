@@ -1,13 +1,6 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B993D6,100:8CA6DB&height=177&section=header&text=I'm%20Yoma&fontSize=70&fontAlign=74&fontAlignY=35&desc=Hello%20World!&descAlign=27&descSize=65&descAlignY=35)<br>
--->
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodeyoma&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://https://github.com/codeyoma)-->
-
-<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira&size=30&duration=3333&pause=4000&width=435&lines=Hello%2C+Again!)](https://yoma.kr)
  
----
  
 ### :bookmark: Introduction
  
@@ -16,24 +9,27 @@
 * 📖 I'm interested in AGI, Big-Data, Optimization ...
 * 🏁 My goal is to make AGI with a mind.
  
- ---
+<br>
  
 ## :mailbox_with_mail: Connect
 
 [![Gmail Badge](https://img.shields.io/badge/Mail_to_:_codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 [![Github.io](https://img.shields.io/badge/blog_:_yoma.kim_or_yoma.kr-555555?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222&link=yoma.kr)](https://yoma.kr)
  
- ---
+<br>
 
-## :toolbox: Tool Box
+## 🛠️ Tools
+<details>
+<div markdown="1">
 
+### Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Wolfram Language](https://img.shields.io/badge/Wolfram_Language-DD1100?style=flat-square&logo=wolfram-language&logoColor=white)
 
-<!--
+### Library
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -45,14 +41,15 @@
 
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
- -->
  
+### Serve
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Apache hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white)
  
+### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -60,34 +57,43 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white
 -->
  
+### Dev
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kuvernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
+### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
+### Collab
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
- 
+
+### Note
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-008080?style=flat-square&logo=latex&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
+### Algorithm
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white)
 
+### Study
 ![Mendeley](https://img.shields.io/badge/Mendeley-9D1620?style=flat-square&logo=mendeley&logoColor=white)
 ![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)
 ![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)
- 
+
+### Keyboard
 ![QMK](https://img.shields.io/badge/QMK-333333?style=flat-square&logo=qmk&logoColor=white)
 ![ZMK](https://img.shields.io/badge/ZMK-0094F5?style=flat-square&logo=qmk&logoColor=white)
 <br/>
  
+</div>
+</details>
 
 
 
@@ -136,5 +142,3 @@ Here are some ideas to get you started:
 ```
 
 -->
-
-  </div>
