@@ -50,8 +50,8 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-222?&logo=apache-kafka)
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-222?&logo=apache-hadoop&logoColor=66CCFF)
 
-![MySQL](https://img.shields.io/badge/MySQL-222?&logo=MySQL&logoColor=4479A1)
-![MariaDB](https://img.shields.io/badge/MariaDB-222?&logo=mariadb&logoColor=003545)
+![MySQL](https://img.shields.io/badge/MySQL-222?&logo=MySQL)
+![MariaDB](https://img.shields.io/badge/MariaDB-222?&logo=mariadb)
 ![Redis](https://img.shields.io/badge/Redis-222?&logo=redis&logoColor=DC382D)
 ![Docker](https://img.shields.io/badge/Docker-222?&logo=docker&logoColor=2496ED)
 ![Kuvernetes](https://img.shields.io/badge/Kubernetes-222?&logo=kubernetes)
