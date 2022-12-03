@@ -38,7 +38,7 @@
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?&logo=selenium)
 -->
 
-#### Stacks & Tools
+#### Stacks & Gadgets
 ![Nginx](https://img.shields.io/badge/Nginx-222?&logo=nginx&logoColor=009639)
 ![Apache](https://img.shields.io/badge/Apache-222?&logo=apache&logoColor=D22128)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-222?&logo=apache-spark&logoColor=E25A1C)
@@ -58,7 +58,7 @@
 ![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)
 ![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)
 
-#### Collab & Note Tools
+#### Collab & Notes
 ![Git](https://img.shields.io/badge/Git-222?&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-222?&logo=slack)
@@ -69,7 +69,7 @@
 ![LaTeX](https://img.shields.io/badge/Latex-222?&logo=latex&logoColor=008080)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-222?&logo=microsoft-office&logoColor=D83B01)
 
-#### Study Tools
+#### Study
 [![Kaggle](https://img.shields.io/badge/Kaggle-222?&logo=kaggle)](https://www.kaggle.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-222?&logo=leetcode)](https://leetcode.com/)
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-222?&logo=hackerearth)
@@ -79,7 +79,7 @@
 ![Google Scholar](https://img.shields.io/badge/Google_Scholar-222?&logo=google-scholar)
 ![arXiv](https://img.shields.io/badge/arXiv-222?&logo=arxiv&logoColor=B31B1B)
 
-#### Keyboards Tools
+#### Keyboards
 ![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)
 ![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)
 ![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)
