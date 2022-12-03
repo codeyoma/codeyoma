@@ -7,8 +7,7 @@
 * 📖 I'm interested in AGI, Big-Data, Optimization, ...
 * 🏁 My goal is to make AGI with a mind.
 
-<br>
-<br>
+<br> <br>
 
 # :mailbox_with_mail: Reach Me
 
@@ -16,12 +15,9 @@
 
 [![Github.io](https://img.shields.io/badge/blog_:_yoma.kim_or_yoma.kr-34A853?style=for-the-badge&logo=GoogleHome&labelColor=F9AB00&logoColor=white&link=yoma.kr)](https://yoma.kr)
 
-<br>
-<br>
+<br> <br>
 
 # 🛠️ Toolbox
-<!-- <details> -->
-<div markdown="1" align=left>
 
 #### Languages
 ![C](https://img.shields.io/badge/C-222?&logo=c&logoColor=#A8B9CC)
@@ -42,7 +38,7 @@
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?&logo=selenium)
 -->
 
-#### Tech & Tools
+#### Stacks & Tools
 ![Nginx](https://img.shields.io/badge/Nginx-222?&logo=nginx&logoColor=009639)
 ![Apache](https://img.shields.io/badge/Apache-222?&logo=apache&logoColor=D22128)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-222?&logo=apache-spark&logoColor=E25A1C)
@@ -62,7 +58,7 @@
 ![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)
 ![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)
 
-#### Collab & Notes
+#### Collab & Note Tools
 ![Git](https://img.shields.io/badge/Git-222?&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-222?&logo=slack)
@@ -73,8 +69,7 @@
 ![LaTeX](https://img.shields.io/badge/Latex-222?&logo=latex&logoColor=008080)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-222?&logo=microsoft-office&logoColor=D83B01)
 
-
-#### Study
+#### Study Tools
 [![Kaggle](https://img.shields.io/badge/Kaggle-222?&logo=kaggle)](https://www.kaggle.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-222?&logo=leetcode)](https://leetcode.com/)
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-222?&logo=hackerearth)
@@ -84,59 +79,7 @@
 ![Google Scholar](https://img.shields.io/badge/Google_Scholar-222?&logo=google-scholar)
 ![arXiv](https://img.shields.io/badge/arXiv-222?&logo=arxiv&logoColor=B31B1B)
 
-#### Keyboards
+#### Keyboards Tools
 ![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)
 ![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)
 ![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)
-
-
-</div>
-<!-- </details> -->
-
-
-<!--
-## :mailbox_with_mail: Contact
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
-
-[![Github.io](https://img.shields.io/badge/GithubPages-yoma.kr_or_yoma.kim-555555?style=for-the-badge&logo=githubpages&labelColor=222222&link=yoma.kr)](https://yoma.kr)
--->
-
-
-<!--
-https://simpleicons.org/
-
-![ALT](https://img.shields.io/badge/NAME-COLOR?&logo=LOGO)
-
-![](https://img.shields.io/badge/-?&logo=)
-
-[![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
--->
-
-<!--
-
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?&logo=LeetCode&logoColor=#d16c06)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?&logo=kaggle)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?&logo=Codeforces)
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)
-
-**codeyoma/codeyoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-```
-
--->
