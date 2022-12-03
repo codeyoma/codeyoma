@@ -13,18 +13,17 @@
 
 ## :mailbox_with_mail: Connect
 
-[![Gmail Badge](https://img.shields.io/badge/Mail_to_:_codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
-[![Github.io](https://img.shields.io/badge/blog_:_yoma.kim_or_yoma.kr-555555?style=for-the-badge&logo=githubpages&labelColor=222222&link=yoma.kr)](https://yoma.kr)
+[![Gmail Badge](https://img.shields.io/badge/Mail_:_codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
+
+[![Github.io](https://img.shields.io/badge/blog_:_yoma.kim_or_yoma.kr-34A853?style=for-the-badge&logo=GoogleHome&labelColor=F9AB00&logoColor=white&link=yoma.kr)](https://yoma.kr)
 
 <br>
 
 ## 🛠️ Tools
 <!-- <details> -->
-<!-- <div markdown="1"> -->
-<details>
-<div align=center>
+<div markdown="1" align=left>
 
-### Language
+#### Language
 ![C](https://img.shields.io/badge/C-222?&logo=c&logoColor=#A8B9CC)
 ![C++](https://img.shields.io/badge/C++-222?&logo=c%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-222?&logo=Python&logoColor=3776AB)
@@ -32,7 +31,7 @@
 ![Wolfram Language](https://img.shields.io/badge/Wolfram_Language-222?&logo=wolfram-language&logoColor=DD1100)
 
 <!--
-### Library
+#### Library
 ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/keras-D00000?&logo=keras)
@@ -43,7 +42,7 @@
 ![Selenium](https://img.shields.io/badge/selenium-43B02A?&logo=selenium)
 -->
 
-### Tech & Tool
+#### Tech & Tool
 ![Nginx](https://img.shields.io/badge/Nginx-222?&logo=nginx&logoColor=009639)
 ![Apache](https://img.shields.io/badge/Apache-222?&logo=apache&logoColor=D22128)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-222?&logo=apache-spark&logoColor=E25A1C)
@@ -61,7 +60,7 @@
 ![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)
 ![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)
 
-### Collab & Note
+#### Collab & Note
 ![Git](https://img.shields.io/badge/Git-222?&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github)
 ![Slack](https://img.shields.io/badge/Slack-222?&logo=slack)
@@ -72,7 +71,7 @@
 ![LaTeX](https://img.shields.io/badge/Latex-222?&logo=latex&logoColor=008080)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-222?&logo=microsoft-office&logoColor=D83B01)
 
-### Study
+#### Study
 [![Kaggle](https://img.shields.io/badge/Kaggle-222?&logo=kaggle)](https://www.kaggle.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-222?&logo=leetcode)](https://leetcode.com/)
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-222?&logo=hackerearth)
@@ -82,13 +81,13 @@
 ![Google Scholar](https://img.shields.io/badge/Google_Scholar-222?&logo=google-scholar)
 ![arXiv](https://img.shields.io/badge/arXiv-222?&logo=arxiv&logoColor=B31B1B)
 
-### Keyboard
+#### Keyboard
 ![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)
 ![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)
 <br/>
 
 </div>
-</details>
+<!-- </details> -->
 
 
 <!--
