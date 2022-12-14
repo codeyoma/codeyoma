@@ -83,3 +83,11 @@
 [![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)](https://qmk.fm/)
 [![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)](https://zmk.dev/)
 [![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)](https://www.kicad.org/)
+
+<br> <br>
+
+# 🎫 Badge
+
+
+[![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://profile.intra.42.fr/users/yongmkim)
+[![yongmkim's 42 stats](https://badge.mediaplus.ma/darkblue/yongmkim?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/yongmkim)
