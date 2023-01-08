@@ -87,6 +87,7 @@
 [![R](https://img.shields.io/badge/R-222?&logo=r&logoColor=276DC3)](https://www.r-project.org/)
 [![Haskell](https://img.shields.io/badge/Haskell-222?&logo=haskell&logoColor=5D4F85)](https://www.haskell.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-222?&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-222?&logo=rust)](https://www.rust-lang.org/)
 
 
 <br> <br>
