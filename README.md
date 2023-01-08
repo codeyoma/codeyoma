@@ -23,7 +23,6 @@
 [![C](https://img.shields.io/badge/C-222?&logo=c&logoColor=#A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-222?&logo=c%2B%2B&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/Python-222?&logo=Python&logoColor=3776AB)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-222?&logo=r&logoColor=276DC3)](https://www.r-project.org/)
 [![Wolfram Language](https://img.shields.io/badge/Wolfram_Language-222?&logo=wolfram-language&logoColor=DD1100)](https://www.wolfram.com/language/)
 
 <!--
@@ -83,6 +82,12 @@
 [![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)](https://qmk.fm/)
 [![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)](https://zmk.dev/)
 [![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)](https://www.kicad.org/)
+
+#### Queue
+[![R](https://img.shields.io/badge/R-222?&logo=r&logoColor=276DC3)](https://www.r-project.org/)
+[![Haskell](https://img.shields.io/badge/Haskell-222?&logo=haskell&logoColor=5D4F85)](https://www.haskell.org/)
+[![Elixir](https://img.shields.io/badge/Elixir-222?&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
+
 
 <br> <br>
 
