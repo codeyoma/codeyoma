@@ -94,6 +94,7 @@
 
 # 🎫 Badge
 
-
+<!--
 [![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://github.com/ecole42-yoma)
+-->
 [![yongmkim's 42 stats](https://badge.mediaplus.ma/darkblue/yongmkim?1337Badge=off&UM6P=off)](https://github.com/ecole42-yoma)
