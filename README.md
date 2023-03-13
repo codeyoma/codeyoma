@@ -15,6 +15,9 @@
 
 [![Github.io](https://img.shields.io/badge/blog_:_yoma.kim_or_yoma.kr-34A853?style=for-the-badge&logo=GoogleHome&labelColor=F9AB00&logoColor=white&link=yoma.kr)](https://yoma.kr)
 
+
+[![Github.io](https://img.shields.io/badge/Algorithm_:_AI_Got_Rhythm-F65314?style=for-the-badge&logo=Algorand&labelColor=4285F4&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
+
 <br> <br>
 
 # 🛠️ Toolbox
