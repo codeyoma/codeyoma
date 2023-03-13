@@ -11,12 +11,21 @@
 
 # :mailbox_with_mail: Reach Me
 
-[![Gmail Badge](https://img.shields.io/badge/Mail-_codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
-[![Github.io](https://img.shields.io/badge/blog-_yoma.kim_or_yoma.kr-34A853?style=for-the-badge&logo=GoogleHome&labelColor=F9AB00&logoColor=white&link=yoma.kr)](https://yoma.kr)
+[![Github.io](https://img.shields.io/badge/|_blog_|-_yoma.kr-34A853?style=for-the-badge&logo=GoogleHome&labelColor=F9AB00&logoColor=white&link=yoma.kr)](https://yoma.kr)
 
+<br>
 
-[![Github.io](https://img.shields.io/badge/AI&AL-_L'aicifitra_&_AI_Got_Rhythm-222222?style=for-the-badge&logo=OpenAI&labelColor=412991&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
+[![Github.io](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=for-the-badge&logo=TheAlgorithms&labelColor=00BCB4&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
+
+[![Github.io](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=for-the-badge&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
+
+<!--
+[![Github.io](https://img.shields.io/badge/|_Algorithm_|-_AI_Got_Rhythm-00BCB4?style=for-the-badge&logo=TheAlgorithms&labelColor=222222&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
+
+[![Github.io](https://img.shields.io/badge/|_AI_|-_Dnim_L'aicifitra-412991?style=for-the-badge&logo=OpenAI&labelColor=222222&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
+-->
 
 <br> <br>
 
