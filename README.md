@@ -63,9 +63,11 @@
 #### Collabs & Notes
 [![Git](https://img.shields.io/badge/Git-222?&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github)](https://github.com/)
+
 [![Slack](https://img.shields.io/badge/Slack-222?&logo=slack)](https://slack.com/)
 [![Notion](https://img.shields.io/badge/Notion-222?&logo=notion)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-222?&logo=miro)](https://miro.com/)
+[![JiraSoftware](https://img.shields.io/badge/JiraSoftware-222?&logo=JiraSoftware&logoColor=0052CC)](https://www.atlassian.com/)
 
 [![Markdown](https://img.shields.io/badge/Markdown-222?&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![LaTeX](https://img.shields.io/badge/Latex-222?&logo=latex&logoColor=008080)](https://www.latex-project.org/)
@@ -91,7 +93,8 @@
 [![Haskell](https://img.shields.io/badge/Haskell-222?&logo=haskell&logoColor=5D4F85)](https://www.haskell.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-222?&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
 [![Rust](https://img.shields.io/badge/Rust-222?&logo=rust)](https://www.rust-lang.org/)
-
+[![TypeScript](https://img.shields.io/badge/TypeScript-222?&logo=Typescript)](https://www.typescriptlang.org/)
+[![Nest.JS](https://img.shields.io/badge/Nest.js-222?&logo=NestJs&logoColor=E0234E)](https://nestjs.com/)
 
 <br> <br>
 
