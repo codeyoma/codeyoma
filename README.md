@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&weight=500&size=42&duration=2468&pause=4000&width=600&height=70&lines=Hello%2C+Again!+I'm+Y%C3%B2m%C3%A1.)](https://yoma.kr/)
 
+<br>
+
 # :bookmark: About Me
 
 * :wave: I'm YongMan "Yòmá" Kim.
@@ -110,9 +112,42 @@
 
 <br> <br>
 
-# 🎫 Badge
+
+
+# 🖼️ Badge
 
 <!--
 [![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://github.com/ecole42-yoma)
 -->
 [![yongmkim's 42 stats](https://badge.mediaplus.ma/darkblue/yongmkim?1337Badge=off&UM6P=off)](https://github.com/ecole42-yoma)
+
+
+
+
+<br> <br>
+
+
+
+
+
+# 🏫 Education
+
+![42 Badge](https://img.shields.io/badge/_Cadet-_Ecole_42_[_Seoul_Campus_._2021~NOW_]-222222?style=for-the-badge&logo=42&logoColor=white&labelColor=0061D5)
+
+![Dankook](https://img.shields.io/badge/_Philosophy_[_Major_]-_University_of_Dankook_[_College_of_Humanities_._2012~2021_]-222222?style=for-the-badge&logo=htmlacademy&logoColor=white&labelColor=0061D5)
+
+![Dankook](https://img.shields.io/badge/_SW_Convergence_Cinematic_Contents_[_Double_Major_]-_University_of_Dankook_[_College_of_SW_Convergence_._2018~2021_]-222222?style=for-the-badge&logo=htmlacademy&logoColor=white&labelColor=0061D5)
+
+<br><br>
+
+
+
+# 🎫 Certificate
+
+![Certificate](https://img.shields.io/badge/_Engineer_Information_Processing_[_정보처리기사_]-_HRDK_[_한국산업인력공단_._2021_]-222222?style=for-the-badge&logo=slickpic&logoColor=white&labelColor=0D597F)
+
+![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_[_ADsP_._데이터분석_준전문가_]-_Kdata_[_한국데이터산업진흥원._2020_]-222222?style=for-the-badge&logo=slickpic&logoColor=white&labelColor=0D597F)
+
+![Certificate](https://img.shields.io/badge/_Craftsman_Information_Equipment_Operation_[_정보기기운용기능사_]-_HRDK_[_한국산업인력공단_._2011_]-222222?style=for-the-badge&logo=slickpic&logoColor=white&labelColor=0D597F)
+
+![Certificate](https://img.shields.io/badge/_Computerized_Accounting_Specialist_Level_3_[_전산회계_3급_]-_KORCHAM_[_대한상공회의소_._2011_]-222222?style=for-the-badge&logo=slickpic&logoColor=white&labelColor=0D597F)
