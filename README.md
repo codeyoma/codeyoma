@@ -52,6 +52,7 @@
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-222?&logo=apache-spark&logoColor=E25A1C)](https://spark.apache.org/)
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-222?&logo=apache-kafka)](https://kafka.apache.org/)
 [![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-222?&logo=apache-hadoop&logoColor=66CCFF)](https://hadoop.apache.org/) <br>
+  > [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-222?&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/) <br>
   > [![MySQL](https://img.shields.io/badge/MySQL-222?&logo=MySQL)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-222?&logo=mariadb)](https://mariadb.org/)
 [![Redis](https://img.shields.io/badge/Redis-222?&logo=redis&logoColor=DC382D)](https://redis.io/)
@@ -65,17 +66,19 @@
 [![CMake](https://img.shields.io/badge/CMake-222?&logo=CMake&logoColor=064F8C)](https://cmake.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-222?&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)](https://www.vim.org/)
-[![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)](https://www.sonarsource.com/products/sonarlint/)
+[![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)](https://www.sonarsource.com/products/sonarlint/) <br>
 > #### <i>Collabs & Notes</i>
   > [![Git](https://img.shields.io/badge/Git-222?&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github)](https://github.com/) <br>
   > [![Slack](https://img.shields.io/badge/Slack-222?&logo=slack)](https://slack.com/)
 [![Notion](https://img.shields.io/badge/Notion-222?&logo=notion)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-222?&logo=miro)](https://miro.com/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-222?&logo=obsidian&logoColor=483699)](https://obsidian.md/)
 [![JiraSoftware](https://img.shields.io/badge/JiraSoftware-222?&logo=JiraSoftware&logoColor=0052CC)](https://www.atlassian.com/) <br>
   > [![Markdown](https://img.shields.io/badge/Markdown-222?&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![LaTeX](https://img.shields.io/badge/Latex-222?&logo=latex&logoColor=008080)](https://www.latex-project.org/)
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-222?&logo=microsoft-office&logoColor=D83B01)](https://www.microsoft.com/en-us/microsoft-365)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-222?&logo=microsoft-office&logoColor=D83B01)](https://www.microsoft.com/en-us/microsoft-365) <br>
+  > [![Deepnote](https://img.shields.io/badge/Deepnote-222?&logo=deepnote&logoColor=3793EF)](https://deepnote.com/)
 > #### <i>Keyboards</i>
   > [![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk)](https://qmk.fm/)
 [![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk)](https://zmk.dev/)
