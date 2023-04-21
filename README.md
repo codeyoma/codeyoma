@@ -14,7 +14,7 @@
 
 ## 🏫 Education
 
-> ![42 Badge](https://img.shields.io/badge/_Cadet-_Ecole_42_|_Seoul_Campus_._2021~NOW-222?style=flat-square&logo=42&logoColor=white&labelColor=4285F4) <br>
+> ![42 Badge](https://img.shields.io/badge/_Cadet_|_yongmkim-_Ecole_42_|_Seoul_Campus_._2021~NOW-222?style=flat-square&logo=42&logoColor=white&labelColor=4285F4) <br>
 ![Dankook](https://img.shields.io/badge/_Philosophy_|_Major-_University_of_Dankook_|_College_of_Humanities_._2012~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4) <br>
 ![Dankook](https://img.shields.io/badge/_SW_Convergence_Cinematic_Contents_|_Double_Major-_University_of_Dankook_|_College_of_SW_Convergence_._2018~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4)
 
