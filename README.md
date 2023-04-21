@@ -9,8 +9,8 @@
 
 ## :mailbox_with_mail: Reach Me
 
-> [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com) <br>
-[![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=flat-square&logo=GoogleHome&labelColor=FBBC05&logoColor=white&link=yoma.kr)](https://yoma.kr)
+> [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com) <br>
+[![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-34A853?style=flat-square&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr)
 
 ## 🏫 Education
 
