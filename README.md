@@ -9,21 +9,21 @@
 
 ## :mailbox_with_mail: Reach Me
 
-* [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
-* [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=flat-square&logo=GoogleHome&labelColor=FBBC05&logoColor=white&link=yoma.kr)](https://yoma.kr)
+> [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com) <br>
+[![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=flat-square&logo=GoogleHome&labelColor=FBBC05&logoColor=white&link=yoma.kr)](https://yoma.kr)
 
 ## 🏫 Education
 
-* ![42 Badge](https://img.shields.io/badge/_Cadet-_Ecole_42_|_Seoul_Campus_._2021~NOW-222?style=flat-square&logo=42&logoColor=white&labelColor=4285F4)
-* ![Dankook](https://img.shields.io/badge/_Philosophy_|_Major-_University_of_Dankook_|_College_of_Humanities_._2012~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4)
-* ![Dankook](https://img.shields.io/badge/_SW_Convergence_Cinematic_Contents_|_Double_Major-_University_of_Dankook_|_College_of_SW_Convergence_._2018~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4)
+> ![42 Badge](https://img.shields.io/badge/_Cadet-_Ecole_42_|_Seoul_Campus_._2021~NOW-222?style=flat-square&logo=42&logoColor=white&labelColor=4285F4) <br>
+![Dankook](https://img.shields.io/badge/_Philosophy_|_Major-_University_of_Dankook_|_College_of_Humanities_._2012~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4) <br>
+![Dankook](https://img.shields.io/badge/_SW_Convergence_Cinematic_Contents_|_Double_Major-_University_of_Dankook_|_College_of_SW_Convergence_._2018~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4)
 
 ## 🎫 Certificate
 
-* ![Certificate](https://img.shields.io/badge/_Engineer_Information_Processing_|_정보처리기사-_HRDK_|_한국산업인력공단_._2021-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)
-* ![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_\(ADsP\)_|_데이터분석_준전문가-_Kdata_|_한국데이터산업진흥원._2020-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)
-* ![Certificate](https://img.shields.io/badge/_Craftsman_Information_Equipment_Operation_|_정보기기운용기능사-_HRDK_|_한국산업인력공단_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)
-* ![Certificate](https://img.shields.io/badge/_Computerized_Accounting_Specialist_Level_3_|_전산회계_3급-_KORCHAM_|_대한상공회의소_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)
+> ![Certificate](https://img.shields.io/badge/_Engineer_Information_Processing_|_정보처리기사-_HRDK_|_한국산업인력공단_._2021-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853) <br>
+![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_\(ADsP\)_|_데이터분석_준전문가-_Kdata_|_한국데이터산업진흥원._2020-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853) <br>
+![Certificate](https://img.shields.io/badge/_Craftsman_Information_Equipment_Operation_|_정보기기운용기능사-_HRDK_|_한국산업인력공단_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853) <br>
+![Certificate](https://img.shields.io/badge/_Computerized_Accounting_Specialist_Level_3_|_전산회계_3급-_KORCHAM_|_대한상공회의소_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)
 
 <!--
 [![Github.io](https://img.shields.io/badge/|_Algorithm_|-_AI_Got_Rhythm-00BCB4?style=for-the-badge&logo=TheAlgorithms&labelColor=222222&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
@@ -33,9 +33,9 @@
 
 ## 🗃️ Log
 
-* [![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_Log_-222222?style=flat-square&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma)
-* [![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=flat-square&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
-* [![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=flat-square&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
+> [![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_Log_-222222?style=flat-square&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma) <br>
+[![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=flat-square&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr) <br>
+[![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=flat-square&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 
 <br> <br>
 
@@ -73,7 +73,7 @@
 [![Notion](https://img.shields.io/badge/Notion-222?&logo=notion)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-222?&logo=miro)](https://miro.com/)
 [![JiraSoftware](https://img.shields.io/badge/JiraSoftware-222?&logo=JiraSoftware&logoColor=0052CC)](https://www.atlassian.com/) <br>
-  > [![Markdown](https://img.shields.io/badge/Markdown-222?&logo=markdown)](https://daringfireball.net/projects/markdown/) <br>
+  > [![Markdown](https://img.shields.io/badge/Markdown-222?&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![LaTeX](https://img.shields.io/badge/Latex-222?&logo=latex&logoColor=008080)](https://www.latex-project.org/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-222?&logo=microsoft-office&logoColor=D83B01)](https://www.microsoft.com/en-us/microsoft-365)
 > #### <i>Keyboards</i>
