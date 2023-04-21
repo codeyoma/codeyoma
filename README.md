@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&weight=500&size=42&duration=2468&pause=4000&width=600&height=70&lines=Hello%2C+Again!+I'm+Y%C3%B2m%C3%A1.)](https://yoma.kr/)
 
-<br>
-
 # :bookmark: About Me
 
 * :wave: I'm YongMan "Yòmá" Kim.
@@ -9,43 +7,26 @@
 * 📖 I'm interested in AGI, Big-Data, Optimization, ...
 * 🏁 My goal is to make AGI with a mind.
 
-<br> <br>
-
 # :mailbox_with_mail: Reach Me
 
-[![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
+* [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 [![Github.io](https://img.shields.io/badge/|_blog_|-_yoma.kr-222222?style=flat-square&logo=GoogleHome&labelColor=4285F4&logoColor=white&link=yoma.kr)](https://yoma.kr)
-<br>
-
-[![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_Log_-222222?style=flat-square&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma)
+* [![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_Log_-222222?style=flat-square&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma)
 [![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=flat-square&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
 [![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=flat-square&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 
-
-<br><br>
-
-
 # 🏫 Education
 
-![42 Badge](https://img.shields.io/badge/_Cadet-_Ecole_42_|_Seoul_Campus_._2021~NOW-222?style=flat-square&logo=42&logoColor=white&labelColor=0061D5)
-
-![Dankook](https://img.shields.io/badge/_Philosophy_|_Major-_University_of_Dankook_|_College_of_Humanities_._2012~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=0061D5)
-
-![Dankook](https://img.shields.io/badge/_SW_Convergence_Cinematic_Contents_|_Double_Major-_University_of_Dankook_|_College_of_SW_Convergence_._2018~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=0061D5)
-
-<br><br>
-
-
+* ![42 Badge](https://img.shields.io/badge/_Cadet-_Ecole_42_|_Seoul_Campus_._2021~NOW-222?style=flat-square&logo=42&logoColor=white&labelColor=0061D5)
+* ![Dankook](https://img.shields.io/badge/_Philosophy_|_Major-_University_of_Dankook_|_College_of_Humanities_._2012~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=0061D5)
+* ![Dankook](https://img.shields.io/badge/_SW_Convergence_Cinematic_Contents_|_Double_Major-_University_of_Dankook_|_College_of_SW_Convergence_._2018~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=0061D5)
 
 # 🎫 Certificate
 
-![Certificate](https://img.shields.io/badge/_Engineer_Information_Processing_|_정보처리기사-_HRDK_|_한국산업인력공단_._2021-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
-
-![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_|_ADsP_._데이터분석_준전문가-_Kdata_|_한국데이터산업진흥원._2020-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
-
-![Certificate](https://img.shields.io/badge/_Craftsman_Information_Equipment_Operation_|_정보기기운용기능사-_HRDK_|_한국산업인력공단_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
-
-![Certificate](https://img.shields.io/badge/_Computerized_Accounting_Specialist_Level_3_|_전산회계_3급-_KORCHAM_|_대한상공회의소_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
+* ![Certificate](https://img.shields.io/badge/_Engineer_Information_Processing_|_정보처리기사-_HRDK_|_한국산업인력공단_._2021-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
+* ![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_|_ADsP_._데이터분석_준전문가-_Kdata_|_한국데이터산업진흥원._2020-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
+* ![Certificate](https://img.shields.io/badge/_Craftsman_Information_Equipment_Operation_|_정보기기운용기능사-_HRDK_|_한국산업인력공단_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
+* ![Certificate](https://img.shields.io/badge/_Computerized_Accounting_Specialist_Level_3_|_전산회계_3급-_KORCHAM_|_대한상공회의소_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
 
 <!--
 [![Github.io](https://img.shields.io/badge/|_Algorithm_|-_AI_Got_Rhythm-00BCB4?style=for-the-badge&logo=TheAlgorithms&labelColor=222222&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
@@ -53,7 +34,7 @@
 [![Github.io](https://img.shields.io/badge/|_AI_|-_Dnim_L'aicifitra-412991?style=for-the-badge&logo=OpenAI&labelColor=222222&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 -->
 
-<br> <br>
+<br>
 
 # 🛠️ Toolbox
 
@@ -132,9 +113,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-222?&logo=Typescript)](https://www.typescriptlang.org/)
 [![Nest.JS](https://img.shields.io/badge/Nest.js-222?&logo=NestJs&logoColor=E0234E)](https://nestjs.com/)
 
-<br> <br>
-
-
+<br>
 
 # 🖼️ Badge
 
