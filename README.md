@@ -37,7 +37,7 @@
 * [![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=flat-square&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
 * [![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=flat-square&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 
-<br>
+<br> <br>
 
 ## 🛠️ Toolbox
 
@@ -115,6 +115,8 @@
 [![Rust](https://img.shields.io/badge/Rust-222?&logo=rust)](https://www.rust-lang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-222?&logo=Typescript)](https://www.typescriptlang.org/)
 [![Nest.JS](https://img.shields.io/badge/Nest.js-222?&logo=NestJs&logoColor=E0234E)](https://nestjs.com/)
+
+<br> <br>
 
 ## 🖼️ Badge
 
