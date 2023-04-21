@@ -37,6 +37,8 @@
 * [![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=flat-square&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
 * [![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=flat-square&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 
+<br>
+
 ## 🛠️ Toolbox
 
 #### Languages
