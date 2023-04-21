@@ -24,7 +24,7 @@
 ## 🎫 Certificate
 
 * ![Certificate](https://img.shields.io/badge/_Engineer_Information_Processing_|_정보처리기사-_HRDK_|_한국산업인력공단_._2021-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
-* ![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_|_ADsP_._데이터분석_준전문가-_Kdata_|_한국데이터산업진흥원._2020-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
+* ![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_\(ADsP\)_|_데이터분석_준전문가-_Kdata_|_한국데이터산업진흥원._2020-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
 * ![Certificate](https://img.shields.io/badge/_Craftsman_Information_Equipment_Operation_|_정보기기운용기능사-_HRDK_|_한국산업인력공단_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
 * ![Certificate](https://img.shields.io/badge/_Computerized_Accounting_Specialist_Level_3_|_전산회계_3급-_KORCHAM_|_대한상공회의소_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=0D597F)
 
