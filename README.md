@@ -10,10 +10,7 @@
 ## :mailbox_with_mail: Reach Me
 
 * [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
-[![Github.io](https://img.shields.io/badge/|_blog_|-_yoma.kr-222222?style=flat-square&logo=GoogleHome&labelColor=4285F4&logoColor=white&link=yoma.kr)](https://yoma.kr)
-* [![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_Log_-222222?style=flat-square&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma)
-[![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=flat-square&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
-[![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=flat-square&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
+* [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=flat-square&logo=GoogleHome&labelColor=4285F4&logoColor=white&link=yoma.kr)](https://yoma.kr)
 
 ## 🏫 Education
 
@@ -33,6 +30,12 @@
 
 [![Github.io](https://img.shields.io/badge/|_AI_|-_Dnim_L'aicifitra-412991?style=for-the-badge&logo=OpenAI&labelColor=222222&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 -->
+
+## 🗃️ Log
+
+* [![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_Log_-222222?style=flat-square&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma)
+* [![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=flat-square&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
+* [![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=flat-square&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 
 ## 🛠️ Toolbox
 
@@ -119,8 +122,4 @@
 [![yongmkim's 42 stats](https://badge.mediaplus.ma/darkblue/yongmkim?1337Badge=off&UM6P=off)](https://github.com/ecole42-yoma)
 
 
-
-
-<br> <br>
-
-
+<br>
