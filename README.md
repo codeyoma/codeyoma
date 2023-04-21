@@ -14,16 +14,17 @@
 
 ## 🏫 Education
 
-> ![42 Badge](https://img.shields.io/badge/_Cadet_|_yongmkim-_Ecole_42_|_Seoul_Campus_._2021~NOW-222?style=flat-square&logo=42&logoColor=white&labelColor=4285F4) <br>
-![Dankook](https://img.shields.io/badge/_Philosophy_|_Major-_University_of_Dankook_|_College_of_Humanities_._2012~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4) <br>
-![Dankook](https://img.shields.io/badge/_SW_Convergence_Cinematic_Contents_|_Double_Major-_University_of_Dankook_|_College_of_SW_Convergence_._2018~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4)
+> [![42 Badge](https://img.shields.io/badge/_Cadet_|_yongmkim-_Ecole_42_|_Seoul_Campus_._2021~NOW-222?style=flat-square&logo=42&logoColor=white&labelColor=4285F4)](https://42.fr/en/homepage/) <br>
+[![Dankook](https://img.shields.io/badge/_Philosophy_|_Major-_University_of_Dankook_|_College_of_Humanities_._2012~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4)](https://cms.dankook.ac.kr/web/philosophy) <br>
+[![Dankook](https://img.shields.io/badge/_SW_Convergence_Cinematic_Contents_|_Double_Major-_University_of_Dankook_|_College_of_SW_Convergence_._2018~2021-222222?style=flat-square&logo=htmlacademy&logoColor=white&labelColor=4285F4)](https://cms.dankook.ac.kr/web/swcon)
+
 
 ## 🎫 Certificate
 
-> ![Certificate](https://img.shields.io/badge/_Engineer_Information_Processing_|_정보처리기사-_HRDK_|_한국산업인력공단_._2021-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853) <br>
-![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_\(ADsP\)_|_데이터분석_준전문가-_Kdata_|_한국데이터산업진흥원._2020-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853) <br>
-![Certificate](https://img.shields.io/badge/_Craftsman_Information_Equipment_Operation_|_정보기기운용기능사-_HRDK_|_한국산업인력공단_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853) <br>
-![Certificate](https://img.shields.io/badge/_Computerized_Accounting_Specialist_Level_3_|_전산회계_3급-_KORCHAM_|_대한상공회의소_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)
+> [![Certificate](https://img.shields.io/badge/_Engineer_Information_Processing_|_정보처리기사-_HRDK_|_한국산업인력공단_._2021-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320) <br>
+[![Certificate](https://img.shields.io/badge/_Advanced_Data_Analytics_Semi_Professional_\(ADsP\)_|_데이터분석_준전문가-_Kdata_|_한국데이터산업진흥원._2020-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)](https://www.dataq.or.kr/www/sub/a_06.do) <br>
+[![Certificate](https://img.shields.io/badge/_Craftsman_Information_Equipment_Operation_|_정보기기운용기능사-_HRDK_|_한국산업인력공단_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)](http://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6892&gSite=Q&gId) <br>
+[![Certificate](https://img.shields.io/badge/_Computerized_Accounting_Specialist_Level_3_|_전산회계_3급-_KORCHAM_|_대한상공회의소_._2011-222222?style=flat-square&logo=slickpic&logoColor=white&labelColor=34A853)](https://license.korcham.net/co/examguide.do?cd=0104&mm=41)
 
 <!--
 [![Github.io](https://img.shields.io/badge/|_Algorithm_|-_AI_Got_Rhythm-00BCB4?style=for-the-badge&logo=TheAlgorithms&labelColor=222222&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
