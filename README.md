@@ -42,12 +42,13 @@
 
 ## 🛠️ Toolbox
 
-> #### <i>Languages</i>
+#### <i>Languages</i>
   > [![C](https://img.shields.io/badge/C-222?&logo=c&logoColor=#A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-222?&logo=c%2B%2B&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/Python-222?&logo=Python&logoColor=3776AB)](https://www.python.org/)
 [![Wolfram Language](https://img.shields.io/badge/Wolfram_Language-222?&logo=wolfram-language&logoColor=DD1100)](https://www.wolfram.com/language/)
-> #### <i>Stacks & Gadgets</i>
+
+#### <i>Stacks & Gadgets</i>
   > [![Nginx](https://img.shields.io/badge/Nginx-222?&logo=nginx&logoColor=009639)](https://www.nginx.com/)
 [![Apache](https://img.shields.io/badge/Apache-222?&logo=apache&logoColor=D22128)](https://httpd.apache.org/)
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-222?&logo=apache-spark&logoColor=E25A1C)](https://spark.apache.org/)
@@ -68,8 +69,9 @@
 [![CMake](https://img.shields.io/badge/CMake-222?&logo=CMake&logoColor=064F8C)](https://cmake.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-222?&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/Vim-222?&logo=vim&logoColor=019733)](https://www.vim.org/)
-[![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)](https://www.sonarsource.com/products/sonarlint/) <br>
-> #### <i>Collabs & Notes</i>
+[![SonarLint](https://img.shields.io/badge/SonarLint-222?&logo=sonarlint&logoColor=CB2029)](https://www.sonarsource.com/products/sonarlint/)
+
+#### <i>Collabs & Notes</i>
   > [![Git](https://img.shields.io/badge/Git-222?&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-222?&logo=github&labelColor=181717)](https://github.com/) <br>
   > [![Slack](https://img.shields.io/badge/Slack-222?&logo=slack&labelColor=4A154B)](https://slack.com/)
@@ -82,11 +84,13 @@
 [![LaTeX](https://img.shields.io/badge/Latex-222?&logo=latex&logoColor=008080)](https://www.latex-project.org/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-222?&logo=microsoft-office&logoColor=D83B01)](https://www.microsoft.com/en-us/microsoft-365) <br>
   > [![Deepnote](https://img.shields.io/badge/Deepnote-222?&logo=deepnote&logoColor=3793EF)](https://deepnote.com/)
-> #### <i>Keyboards</i>
+ 
+#### <i>Keyboards</i>
   > [![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk&labelColor=333333)](https://qmk.fm/)
 [![ZMK](https://img.shields.io/badge/ZMK-222?&logo=openzeppelin&logoColor=314CB0)](https://zmk.dev/)
 [![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)](https://www.kicad.org/)
-> #### <i>Study</i>
+
+#### <i>Study</i>
   > [![Kaggle](https://img.shields.io/badge/Kaggle-222?&logo=kaggle)](https://www.kaggle.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-222?&logo=leetcode)](https://leetcode.com/)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-222?&logo=hackerearth&labelColor=2C3454)](https://www.hackerearth.com/)
@@ -95,7 +99,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-222?&logo=arxiv&logoColor=B31B1B)](https://arxiv.org/)
 [![Mendeley](https://img.shields.io/badge/Mendeley-222?&logo=mendeley&logoColor=9D1620)](https://www.mendeley.com/)
 [![Zotero](https://img.shields.io/badge/Zotero-222?&logo=zotero&logoColor=CC2936)](https://www.zotero.org/)
-> #### <i>Queue</i>
+
+#### <i>Queue</i>
   > [![R](https://img.shields.io/badge/R-222?&logo=r&logoColor=276DC3)](https://www.r-project.org/)
 [![Haskell](https://img.shields.io/badge/Haskell-222?&logo=haskell&logoColor=5D4F85)](https://www.haskell.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-222?&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
