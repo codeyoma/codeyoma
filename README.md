@@ -75,6 +75,7 @@
   > [![Slack](https://img.shields.io/badge/Slack-222?&logo=slack&labelColor=4A154B)](https://slack.com/)
 [![Notion](https://img.shields.io/badge/Notion-222?&logo=notion&labelColor=000000)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-222?&logo=miro&labelColor=050038)](https://miro.com/)
+[![Figma](https://img.shields.io/badge/Figma-222?&logo=figma)](https://figma.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-222?&logo=obsidian&logoColor=483699)](https://obsidian.md/)
 [![JiraSoftware](https://img.shields.io/badge/JiraSoftware-222?&logo=JiraSoftware&logoColor=0052CC)](https://www.atlassian.com/) <br>
   > [![Markdown](https://img.shields.io/badge/Markdown-222?&logo=markdown&labelColor=000000)](https://daringfireball.net/projects/markdown/)
