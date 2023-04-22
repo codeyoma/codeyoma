@@ -84,7 +84,7 @@
   > [![Deepnote](https://img.shields.io/badge/Deepnote-222?&logo=deepnote&logoColor=3793EF)](https://deepnote.com/)
 > #### <i>Keyboards</i>
   > [![QMK](https://img.shields.io/badge/QMK-222?&logo=qmk&labelColor=333333)](https://qmk.fm/)
-[![ZMK](https://img.shields.io/badge/ZMK-222?&logo=qmk&labelColor=314CB0)](https://zmk.dev/)
+[![ZMK](https://img.shields.io/badge/ZMK-222?&logo=openzeppelin&logoColor=314CB0)](https://zmk.dev/)
 [![KiCad](https://img.shields.io/badge/KiCad-222?&logo=KiCad&logoColor=314CB0)](https://www.kicad.org/)
 > #### <i>Study</i>
   > [![Kaggle](https://img.shields.io/badge/Kaggle-222?&logo=kaggle)](https://www.kaggle.com/)
