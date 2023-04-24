@@ -102,8 +102,8 @@
 
 #### <i>Queue</i>
   > [![R](https://img.shields.io/badge/R-222?&logo=r&logoColor=276DC3)](https://www.r-project.org/)
-[![Haskell](https://img.shields.io/badge/Haskell-222?&logo=haskell&logoColor=5D4F85)](https://www.haskell.org/)
-[![Elixir](https://img.shields.io/badge/Elixir-222?&logo=elixir&logoColor=4B275F)](https://elixir-lang.org/)
+[![Haskell](https://img.shields.io/badge/Haskell-222?&logo=haskell&labelColor=5D4F85)](https://www.haskell.org/)
+[![Elixir](https://img.shields.io/badge/Elixir-222?&logo=elixir&labelColor=4B275F)](https://elixir-lang.org/)
 [![Rust](https://img.shields.io/badge/Rust-222?&logo=rust&labelColor=000000)](https://www.rust-lang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-222?&logo=Javascript)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-222?&logo=Typescript)](https://www.typescriptlang.org/)
