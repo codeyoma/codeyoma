@@ -102,7 +102,6 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-222?&logo=GeeksforGeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/) <br>
   > [![Google Scholar](https://img.shields.io/badge/Google_Scholar-222?&logo=google-scholar)](https://scholar.google.com/)
 [![arXiv](https://img.shields.io/badge/arXiv-222?&logo=arxiv&logoColor=B31B1B)](https://arxiv.org/)
-[![Mendeley](https://img.shields.io/badge/Mendeley-222?&logo=mendeley&logoColor=9D1620)](https://www.mendeley.com/)
 [![Zotero](https://img.shields.io/badge/Zotero-222?&logo=zotero&logoColor=CC2936)](https://www.zotero.org/)
 
 #### <i>Queue</i>
