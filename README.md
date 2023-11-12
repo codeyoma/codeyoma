@@ -46,12 +46,12 @@
 
 #### <i>Languages</i>
   > [![C](https://img.shields.io/badge/C-222?&logo=c&logoColor=#A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-222?&logo=c%2B%2B&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B) <br>
+[![C++](https://img.shields.io/badge/C++-222?&logo=c%2B%2B&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Rust](https://img.shields.io/badge/Rust-222?&logo=rust&labelColor=000000)](https://www.rust-lang.org/) <br>
   > [![JavaScript](https://img.shields.io/badge/JavaScript-222?&logo=Javascript)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-222?&logo=Typescript)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-222?&logo=Python&logoColor=3776AB)](https://www.python.org/) <br>
   > [![Wolfram Language](https://img.shields.io/badge/Wolfram_Language-222?&logo=wolfram-language&logoColor=DD1100)](https://www.wolfram.com/language/)
- [![Rust](https://img.shields.io/badge/Rust-222?&logo=rust&labelColor=000000)](https://www.rust-lang.org/)
 
 #### <i>Stacks & Gadgets</i>
   > [![Nginx](https://img.shields.io/badge/Nginx-222?&logo=nginx&logoColor=009639)](https://www.nginx.com/)
