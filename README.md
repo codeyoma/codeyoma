@@ -4,7 +4,7 @@
 
 * :wave: I'm YongMan "Yòmá" Kim.
 * :sparkles: I specialized in Philosophy(Mind, Analytical).
-* 📖 I'm interested in AGI, Big-Data, Optimization, ...
+* 📖 I'm interested in AGI, Big-Data, Game, Optimization, ...
 * 🏁 My goal is to make AGI with a mind.
 
 ## :mailbox_with_mail: Reach Me
