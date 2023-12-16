@@ -10,7 +10,7 @@
 
 # 📬 Reach Me
 
- [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
+> [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
  <!-- [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-34A853?style=flat-square&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr)
