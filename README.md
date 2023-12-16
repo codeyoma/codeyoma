@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&weight=500&size=42&duration=2468&pause=4000&width=600&height=70&lines=Hello%2C+Again!+I'm+Y%C3%B2m%C3%A1.)](https://yoma.kr/)
-# 🔖 About Me
+# About Me
 
 * 👋 YongMan "Yòmá" Kim.
 * ✨ Specialized in Philosophy(Mind, Analytical).
@@ -8,7 +8,7 @@
 * 🏁 My goal is to make AGI with a mind.
 * 💼 Currently working at Pearl Abyss.
 
-# 📬 Reach Me
+# Reach Me
 
 > [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
 
@@ -17,7 +17,7 @@
 
 -->
  
-# 🗃️ Log
+# Log
 
 > [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=flat-square&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr) <br>
 [![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_42_Log_-222222?style=flat-square&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma) <br>
@@ -30,7 +30,7 @@
 [![Github.io](https://img.shields.io/badge/|_AI_|-_Dnim_L'aicifitra-412991?style=for-the-badge&logo=OpenAI&labelColor=222222&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 -->
 
-# 🛠️ Toolbox
+# Toolbox
 
 #### *Languages*
 > [![C](https://img.shields.io/badge/C-222?&logo=c&logoColor=#A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.shields.io/badge/C++-222?&logo=c%2B%2B&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B) [![Rust](https://img.shields.io/badge/Rust-222?&logo=rust&labelColor=000000)](https://www.rust-lang.org/) <br>
@@ -75,7 +75,7 @@
 -->
 
 
-# 🖼️ Badge
+# Badge
 
 <!--
 [![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://github.com/ecole42-yoma)
