@@ -11,7 +11,8 @@
 * ✨ Specialized in Philosophy(Mind, Analytical).
 * 📖 Interested in AGI, Big-Data, Game, Optimization, ...
 * 🏁 My goal is to make AGI with a mind.
-* 💼 Currently working at Pearl Abyss.
+<!-- * 💼 Currently working at Pearl Abyss.
+-->
 
 <br>
 
