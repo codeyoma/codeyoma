@@ -29,10 +29,12 @@
 ## Log
 
 > [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=for-the-badge&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr) <br>
-[![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_42_Log_-222222?style=for-the-badge&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma) <br>
 [![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=for-the-badge&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr) <br> 
 [![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=for-the-badge&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 
+<!--
+[![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_42_Log_-222222?style=for-the-badge&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma) <br>
+-->
 <!--
 [![Github.io](https://img.shields.io/badge/|_Algorithm_|-_AI_Got_Rhythm-00BCB4?style=for-the-badge&logo=TheAlgorithms&labelColor=222222&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr)
 
