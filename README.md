@@ -28,9 +28,12 @@
 
 ## Log
 
-> [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=for-the-badge&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr) <br>
-[![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=for-the-badge&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://aigotrhythm.kr) <br> 
+<!--
+[![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=for-the-badge&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr) <br>
 [![Dnim Laicifitra](https://img.shields.io/badge/|_AI_|-_Dnim%20_L'aicifitra-222222?style=for-the-badge&logo=OpenAI&labelColor=412991&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
+-->
+> [![AI Got Rhythm](https://img.shields.io/badge/|_Algorithm_|-_AI%20_Got%20_Rhythm-222222?style=for-the-badge&logo=TheAlgorithms&labelColor=5468FF&logoColor=white&link=aigotrhythm.kr)](https://github.com/AI-Got-Rhythm) <br> 
+[![Dnim Laicifitra](https://img.shields.io/badge/|_école_42_|-_Yoma‘s_42_Log-222222?style=for-the-badge&logo=42&labelColor=000000&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/ecole42-yoma)
 
 <!--
 [![Ecole 42](https://img.shields.io/badge/|_École_|-_Yòmá's_42_Log_-222222?style=for-the-badge&logo=42&labelColor=33BABC&logoColor=white&link=github.com/ecole42-yoma)](https://github.com/ecole42-yoma) <br>
