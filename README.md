@@ -5,19 +5,16 @@
 # Hello Again!
 <br>
 
-## About Me
-
-* 👋 YongMan "Yòmá" Kim.
-* ✨ Specialized in Philosophy(Mind, Analytical).
-* 📖 Interested in AGI, Big-Data, Game, Optimization, ...
-* 🏁 My goal is to make AGI with a mind.
+- YongMan "Yòmá" Kim.
+- Specialized in Philosophy(Mind, Analytical).
+- Interested in AGI, Big-Data, Game, Optimization, ...
+- My goal is to make AGI with a mind.
 <!-- * 💼 Currently working at Pearl Abyss.
 -->
 
 <br>
 
-## Reach Me
-
+- Reach Me
 > [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/|_LinkedIn_|-codeyoma-222?style=for-the-badge&logo=linkedin&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/codeyoma)
  <!-- [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com)
@@ -26,7 +23,7 @@
 -->
 <br>
 
-## Log
+- Log
 
 <!--
 [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=for-the-badge&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr) <br>
