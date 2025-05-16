@@ -31,8 +31,10 @@
 <br>
 
 ###### Log
+- [PS](https://github.com/AI-Got-Rhythm/ps/tree/main/baekjoon)
 - [École 42](https://github.com/ecole42-yoma)
-- [PS](https://github.com/AI-Got-Rhythm/ps)
+- [Sweep Keyboard](https://github.com/codeyoma/sweep-nice-nano)
+- [Yòmá's Library](https://lib.yoma.kr/)
 
 <!--
 [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=for-the-badge&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr) <br>
