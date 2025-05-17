@@ -8,9 +8,9 @@
 - YongMan "Yòmá" Kim
 - Specialized in Philosophy(Mind, Analytical)
 - Interested in AGI, Big-Data, Game, Optimization, ...
-- My goal is to make AGI with a mind
+- Colemak user on a 34-key Sweep split keyboard
 
-<!-- * 💼 Currently working at Pearl Abyss.
+<!-- - Currently working at 
 -->
 
 <br>
@@ -58,12 +58,5 @@
 ###### Badge
 [![Yoma's Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiatus4322)](https://solved.ac/profile/hiatus4322)
 
-<!--
-[![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://github.com/ecole42-yoma)
-[![yongmkim's 42 stats](https://badge.mediaplus.ma/darkblue/yongmkim?1337Badge=off&UM6P=off)](https://github.com/ecole42-yoma)
--->
-<!--
-|:---:|:---:|:---:|
--->
 
 <br>
