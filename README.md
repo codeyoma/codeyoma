@@ -54,11 +54,9 @@
 [![Github.io](https://img.shields.io/badge/|_AI_|-_Dnim_L'aicifitra-412991?style=for-the-badge&logo=OpenAI&labelColor=222222&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 -->
 <br>
-<br>
-<br>
 
 ###### Badge
-- [![Yoma's Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiatus4322)](https://solved.ac/profile/hiatus4322)
+[![Yoma's Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiatus4322)](https://solved.ac/profile/hiatus4322)
 
 <!--
 [![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://github.com/ecole42-yoma)
