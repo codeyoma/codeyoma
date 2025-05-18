@@ -5,10 +5,11 @@
 # Hello Again!
 <br>
 
-- YongMan "Yòmá" Kim
+- YongMan “Yòmá” Kim
 - Specialized in Philosophy(Mind, Analytical)
-- Interested in AGI, Big-Data, Game, Optimization, ...
-- Colemak user on a 34-key Sweep split keyboard
+- Interested in AGI, Big-Data, Game, Optimization, …
+- Colemak user on a minimalist 34-key Sweep split keyboard
+- A lifelong learner and Zettelkasten enthusiast, working in harmony with Obsidian
 
 <!-- - Currently working at 
 -->
