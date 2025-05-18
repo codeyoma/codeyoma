@@ -31,6 +31,7 @@
 <br>
 
 ###### Log
+- [Blog](https://yoma.kr)
 - [PS](https://github.com/AI-Got-Rhythm/ps/tree/main/baekjoon)
 - [École 42](https://github.com/ecole42-yoma)
 - [Sweep Keyboard](https://github.com/codeyoma/sweep-nice-nano)
