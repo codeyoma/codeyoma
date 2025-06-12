@@ -19,6 +19,8 @@
 ###### Reach Me
 - [codeyoma@gmail.com](mailto:codeyoma@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/codeyoma)
+- [My blog](https://yoma.kr)
+
 
 <!--
 > [![Gmail Badge](https://img.shields.io/badge/|_Mail_|-_codeyoma@gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&link=mailto:codeyoma@gmail.com)](mailto:codeyoma@gmail.com) <br>
@@ -30,13 +32,14 @@
 
 -->
 <br>
-
+<!--
 ###### Log
 - [Blog](https://yoma.kr)
 - [PS](https://github.com/AI-Got-Rhythm/ps/tree/main/baekjoon)
 - [École 42](https://github.com/ecole42-yoma)
 - [Sweep Keyboard](https://github.com/codeyoma/sweep-nice-nano)
 - [Yòmá's Library](https://lib.yoma.kr/)
+-->
 
 <!--
 [![Github.io](https://img.shields.io/badge/|_Blog_|-_yoma.kr-222222?style=for-the-badge&logo=GoogleHome&labelColor=FBBC05&logoColor=white)](https://yoma.kr) <br>
@@ -56,9 +59,9 @@
 [![Github.io](https://img.shields.io/badge/|_AI_|-_Dnim_L'aicifitra-412991?style=for-the-badge&logo=OpenAI&labelColor=222222&logoColor=white&link=github.com/Dnim-Laicifitra)](https://github.com/Dnim-Laicifitra)
 -->
 <br>
-
-###### Badge
+<!--
+##### Badge
 [![Yoma's Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiatus4322)](https://solved.ac/profile/hiatus4322)
-
+-->
 
 <br>
