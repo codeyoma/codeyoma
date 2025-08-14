@@ -18,8 +18,8 @@
 
 ###### Reach Me
 - [codeyoma@gmail.com](mailto:codeyoma@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/codeyoma)
 - [My blog](https://yoma.kr)
+<!-- [LinkedIn](https://www.linkedin.com/in/codeyoma) -->
 
 
 <!--
