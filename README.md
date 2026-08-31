@@ -19,6 +19,7 @@
 ###### Reach Me
 - [codeyoma@gmail.com](mailto:codeyoma@gmail.com)
 - [My blog](https://yoma.kr)
+- [Class blog](https://ymkim-jamcoding.github.io/jamcoding/)
 <!-- [LinkedIn](https://www.linkedin.com/in/codeyoma) -->
 
 
